@@ -1,0 +1,8 @@
+langchain
+langchain-ollama
+langchain-chroma
+pandas
+streamlit
+openai 
+python-dotenv
+PyPDF2
